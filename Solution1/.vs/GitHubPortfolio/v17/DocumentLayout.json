@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DC9550-F2EA-4EB9-98DA-97FE883CDB1D}|GitHubPortfolio.Api\\GitHubPortfolio.Api.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\solution1\\githubportfolio.api\\githubportfolio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9DC9550-F2EA-4EB9-98DA-97FE883CDB1D}|GitHubPortfolio.Api\\GitHubPortfolio.Api.csproj|solutionrelative:githubportfolio.api\\githubportfolio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4689A5FD-48BE-4173-AA9D-3E4968140FCF}|GitHubPortfolio.Services\\GitHubPortfolio.Services.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\solution1\\githubportfolio.services\\githubportfolio.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4689A5FD-48BE-4173-AA9D-3E4968140FCF}|GitHubPortfolio.Services\\GitHubPortfolio.Services.csproj|solutionrelative:githubportfolio.services\\githubportfolio.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DC9550-F2EA-4EB9-98DA-97FE883CDB1D}|GitHubPortfolio.Api\\GitHubPortfolio.Api.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\solution1\\githubportfolio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DC9550-F2EA-4EB9-98DA-97FE883CDB1D}|GitHubPortfolio.Api\\GitHubPortfolio.Api.csproj|solutionrelative:githubportfolio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4689A5FD-48BE-4173-AA9D-3E4968140FCF}|GitHubPortfolio.Services\\GitHubPortfolio.Services.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\solution1\\githubportfolio.services\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4689A5FD-48BE-4173-AA9D-3E4968140FCF}|GitHubPortfolio.Services\\GitHubPortfolio.Services.csproj|solutionrelative:githubportfolio.services\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9DC9550-F2EA-4EB9-98DA-97FE883CDB1D}|GitHubPortfolio.Api\\GitHubPortfolio.Api.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\solution1\\githubportfolio.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9DC9550-F2EA-4EB9-98DA-97FE883CDB1D}|GitHubPortfolio.Api\\GitHubPortfolio.Api.csproj|solutionrelative:githubportfolio.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\1ce6e296-f0fb-4db3-90cc-6f3e7511eeaa\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4689A5FD-48BE-4173-AA9D-3E4968140FCF}|GitHubPortfolio.Services\\GitHubPortfolio.Services.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\solution1\\githubportfolio.services\\githubcachingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4689A5FD-48BE-4173-AA9D-3E4968140FCF}|GitHubPortfolio.Services\\GitHubPortfolio.Services.csproj|solutionrelative:githubportfolio.services\\githubcachingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4689A5FD-48BE-4173-AA9D-3E4968140FCF}|GitHubPortfolio.Services\\GitHubPortfolio.Services.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\solution1\\githubportfolio.services\\igithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4689A5FD-48BE-4173-AA9D-3E4968140FCF}|GitHubPortfolio.Services\\GitHubPortfolio.Services.csproj|solutionrelative:githubportfolio.services\\igithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4689A5FD-48BE-4173-AA9D-3E4968140FCF}|GitHubPortfolio.Services\\GitHubPortfolio.Services.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\solution1\\githubportfolio.services\\models\\repositorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4689A5FD-48BE-4173-AA9D-3E4968140FCF}|GitHubPortfolio.Services\\GitHubPortfolio.Services.csproj|solutionrelative:githubportfolio.services\\models\\repositorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4689A5FD-48BE-4173-AA9D-3E4968140FCF}|GitHubPortfolio.Services\\GitHubPortfolio.Services.csproj|c:\\users\\user1\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\solution1\\githubportfolio.services\\configuration\\githuboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4689A5FD-48BE-4173-AA9D-3E4968140FCF}|GitHubPortfolio.Services\\GitHubPortfolio.Services.csproj|solutionrelative:githubportfolio.services\\configuration\\githuboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\Solution1\\GitHubPortfolio.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "GitHubPortfolio.Api\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\Solution1\\GitHubPortfolio.Api\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "GitHubPortfolio.Api\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T16:21:56.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\Solution1\\GitHubPortfolio.Api\\Program.cs",
+              "RelativeDocumentMoniker": "GitHubPortfolio.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\Solution1\\GitHubPortfolio.Api\\Program.cs",
+              "RelativeToolTip": "GitHubPortfolio.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T16:20:02.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\1ce6e296-f0fb-4db3-90cc-6f3e7511eeaa\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\1ce6e296-f0fb-4db3-90cc-6f3e7511eeaa\\secrets.json",
+              "ToolTip": "C:\\Users\\user1\\AppData\\Roaming\\Microsoft\\UserSecrets\\1ce6e296-f0fb-4db3-90cc-6f3e7511eeaa\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\1ce6e296-f0fb-4db3-90cc-6f3e7511eeaa\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-08T16:18:19.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GitHubCachingDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\Solution1\\GitHubPortfolio.Services\\GitHubCachingDecorator.cs",
+              "RelativeDocumentMoniker": "GitHubPortfolio.Services\\GitHubCachingDecorator.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\Solution1\\GitHubPortfolio.Services\\GitHubCachingDecorator.cs",
+              "RelativeToolTip": "GitHubPortfolio.Services\\GitHubCachingDecorator.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAADgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T16:16:11.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GitHubService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\Solution1\\GitHubPortfolio.Services\\GitHubService.cs",
+              "RelativeDocumentMoniker": "GitHubPortfolio.Services\\GitHubService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\Solution1\\GitHubPortfolio.Services\\GitHubService.cs",
+              "RelativeToolTip": "GitHubPortfolio.Services\\GitHubService.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAuwF4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:41:46.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGitHubService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\Solution1\\GitHubPortfolio.Services\\IGitHubService.cs",
+              "RelativeDocumentMoniker": "GitHubPortfolio.Services\\IGitHubService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\Solution1\\GitHubPortfolio.Services\\IGitHubService.cs",
+              "RelativeToolTip": "GitHubPortfolio.Services\\IGitHubService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:41:13.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepositoryData.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\Solution1\\GitHubPortfolio.Services\\Models\\RepositoryData.cs",
+              "RelativeDocumentMoniker": "GitHubPortfolio.Services\\Models\\RepositoryData.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\Solution1\\GitHubPortfolio.Services\\Models\\RepositoryData.cs",
+              "RelativeToolTip": "GitHubPortfolio.Services\\Models\\RepositoryData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:40:06.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GitHubPortfolio.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\Solution1\\GitHubPortfolio.Api\\GitHubPortfolio.Api.csproj",
+              "RelativeDocumentMoniker": "GitHubPortfolio.Api\\GitHubPortfolio.Api.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\Solution1\\GitHubPortfolio.Api\\GitHubPortfolio.Api.csproj",
+              "RelativeToolTip": "GitHubPortfolio.Api\\GitHubPortfolio.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-08T15:34:00.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GitHubOptions.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\Solution1\\GitHubPortfolio.Services\\Configuration\\GitHubOptions.cs",
+              "RelativeDocumentMoniker": "GitHubPortfolio.Services\\Configuration\\GitHubOptions.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\Solution1\\GitHubPortfolio.Services\\Configuration\\GitHubOptions.cs",
+              "RelativeToolTip": "GitHubPortfolio.Services\\Configuration\\GitHubOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T15:39:33.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GitHubPortfolio.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\Solution1\\GitHubPortfolio.Services\\GitHubPortfolio.Services.csproj",
+              "RelativeDocumentMoniker": "GitHubPortfolio.Services\\GitHubPortfolio.Services.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\practikod\\praktikod5\\Solution1\\GitHubPortfolio.Services\\GitHubPortfolio.Services.csproj",
+              "RelativeToolTip": "GitHubPortfolio.Services\\GitHubPortfolio.Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-08T15:35:07.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

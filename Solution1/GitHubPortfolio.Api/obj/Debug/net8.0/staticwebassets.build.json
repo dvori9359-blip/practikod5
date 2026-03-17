@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jA4tLmjB/dqPDcbVieSaLMiz8oLOjVGzEB1CbXeVeVQ=",
+  "Source": "GitHubPortfolio.Api",
+  "BasePath": "_content/GitHubPortfolio.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
