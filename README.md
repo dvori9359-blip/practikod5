@@ -72,7 +72,7 @@ This preserves Separation of Concerns, reduces coupling, and supports independen
 Interactive API documentation is exposed through Swagger/OpenAPI.
 
 <p align="center">
-  <img src="screenshots/swagger-ui.png" alt="Swagger UI" width="100%" />
+  <img src="screenshots/swagger-ui.png" alt="Swagger UI" width="850px" />
 </p>
 
 The image showcases the RESTful API endpoints, specifically the Portfolio management services, integrated with Swagger for automated documentation and testing.
